@@ -1,1 +1,1 @@
-# ShoppinglyXYZ-An-E-commerce-shop-with-Django
+# ShoppinglyXYZ - An E-commerce shop with Django
